@@ -1,5 +1,5 @@
 # Computer Orgazation  
-Here're labs I've done during the computer organization course, including ALU unit and the implementation of simplified CPU writen in **verilog**.  
+Here're labs I've done during the computer organization course, including ALU unit and the implementation of simplified CPU written in **verilog**.  
 To know details of each lab, you can see the spec in each directory.
 
 ## Purpose
