@@ -1,10 +1,10 @@
 # Computer Orgazation  
 Here're labs I've done during the computer organization course, including ALU unit and the implementation of simplified CPU writen in **verilog**.  
-To know what each lab do, you can see the spec in each directory.
+To know details of each lab, you can see the spec in each directory.
 
 ## Purpose
-In this course, I've learned some basic assembly and hows programs translated into the machine language. We also learned how to evaluate the performance of program and how if can improved in hardware level (concept of parellel processing etc.).  
-These labs helped us to have more comprehensive understanding of the mechanism in CPU.
+In this course, I've learned some basic assembly and hows programs translated into the machine language. We also learned how to evaluate the performance of program and how it can improved in hardware level (concept of parellel processing etc.).  
+These labs helped us to have a more comprehensive understanding of the mechanism of the CPU.
 
 ---
 ## Lab1 - 32-bit ALU
