@@ -3,7 +3,7 @@ Here're labs I've done during the computer organization course, including ALU un
 To know details of each lab, you can see the spec in each directory.
 
 ## Purpose
-In this course, I've learned some basic assembly and hows programs translated into the machine language. We also learned how to evaluate the performance of program and how it can improved in hardware level (concept of parellel processing etc.).  
+In this course, I've learned some basic assembly and hows programs translated into the machine language. We also learned how to evaluate the performance of program and how it can be improved in hardware level (concept of parellel processing etc.).  
 These labs helped us to have a more comprehensive understanding of the mechanism of the CPU.
 
 ---
