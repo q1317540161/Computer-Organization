@@ -14,18 +14,22 @@ The architecture diagram:
 
 ## Lab2 - Single Cycle CPU - Simple Edition
 The architecture diagram:
+
 ![](https://i.imgur.com/wjNvyji.png)
 
 ## Lab3 - Single Cycle CPU - Complete Edition
 The architecture diagram:
+
 ![](https://i.imgur.com/zHBvred.png)
 
 ## Lab4 - Pipelined CPU
 The architecture diagram:
+
 ![](https://i.imgur.com/lUIahUK.png)
 
 ## Lab5 - Advanced Pipelined CPU
 The architecture diagram:
+
 ![](https://i.imgur.com/0YkZ3Ef.png)
 
 
