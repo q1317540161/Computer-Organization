@@ -9,6 +9,7 @@ These labs helped us to have a more comprehensive understanding of the mechanism
 ---
 ## Lab1 - 32-bit ALU
 The architecture diagram:
+
 ![](https://i.imgur.com/YGtZi0P.png)
 
 ## Lab2 - Single Cycle CPU - Simple Edition
